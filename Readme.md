@@ -1,4 +1,4 @@
-# !(2022년 LSK-시몬느 언어학 학교)[http://www.linguistics.or.kr/php/menu_05.php]의 파이썬 강의 자료를 upload할 계획임. 
+# [http://www.linguistics.or.kr/php/menu_05.php](2022년 LSK-시몬느 언어학 학교)의 파이썬 강의 자료를 upload할 계획임. 
 
 언어연구를 위한 Python 프로그래밍 (초급)
 
